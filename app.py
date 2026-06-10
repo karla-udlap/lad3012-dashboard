@@ -34,8 +34,7 @@ TU_ID     = "184047"
 # Streamlit Cloud actualiza tu dashboard solo en 30 segundos.
 # ============================================================
 TU_INSIGHT = """
-Aun no he escrito mi insight. Lo agregare despues de explorar
-los graficos y filtros de mi dashboard.
+Descubrí que Superstore pierde dinero en la cetgoría de Furniture en todas las regiones sin excepción, su margen fue de -14.8% en West y -11.8% en Central durante 2018, mientras que Technology en esos mismos años y regiones superó el 13%. Recomiendo eliminar o reducir drásticamente los descuentos en Furniture para que deje de vender a pérdida y alcance al menos un margen del 5%.
 """
 
 # ============================================================
